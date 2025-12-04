@@ -1,0 +1,9 @@
+TFLITE_PATH: /home/gavinbell/Project/ml/paper_plastic_model.tflite
+IMAGE_DIR: /home/gavinbell/Project/images
+
+Per-image predictions:
+IMG_9136.jpg -> plastic (56.08%)   [paper=0.439, plastic=0.561]
+IMG_9137.jpg -> plastic (67.25%)   [paper=0.328, plastic=0.672]
+IMG_9138.jpg -> paper (69.41%)   [paper=0.694, plastic=0.306]
+
+Best-of-3 result: plastic

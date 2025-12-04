@@ -1,0 +1,9 @@
+{
+  "cmake.generator": "Unix Makefiles",
+  "cmake.configureEnvironment": {
+    "CC": "/usr/bin/gcc",
+    "CXX": "/usr/bin/g++"
+  },
+  "cmake.buildDirectory": "${workspaceFolder}/build",
+  "cmake.exportCompileCommandsFile": true
+}
